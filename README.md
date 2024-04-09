@@ -1,4 +1,4 @@
-# Semana3-Android
+# Semana3-Aplicaciones Moviles
 Este repositorio esta creado para subir el tranakp de la seama 3 de android.
 
 -----
